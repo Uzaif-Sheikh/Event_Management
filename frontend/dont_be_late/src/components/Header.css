@@ -1,0 +1,9 @@
+.header{
+    background: #003580;
+    display: flex;
+    justify-content: center;
+}
+
+.headerContainer{
+    width: 100%
+}

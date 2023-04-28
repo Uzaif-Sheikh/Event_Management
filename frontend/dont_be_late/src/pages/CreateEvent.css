@@ -1,0 +1,13 @@
+.textHolder{
+    width: 60%;
+    min-width: 350px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.fields{
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

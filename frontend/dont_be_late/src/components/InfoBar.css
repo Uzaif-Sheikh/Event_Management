@@ -1,0 +1,15 @@
+.logo{
+    height: 7vh;
+}
+
+.infoBar{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    height: 100%;
+    color:aliceblue;
+    background: #003580;
+    display: flex;
+    justify-content: right;
+    padding-right: 10px;
+    font-size: 70%;
+}

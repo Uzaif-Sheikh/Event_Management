@@ -1,0 +1,26 @@
+Week 1
+This week I met my team members and we looked at the possible projects. We decided on the Event Management System. During the week I worked on the user stories related to existing customers, and also wrote down acceptance criteria for each user story.
+
+Week 2
+This week I continued to work on user stories, and added them individually onto Jira, labeled them with the corresponding functionality, and priority. I also reasearched Eventbrite and Ticketek as existing event management systems, and wrote about their functionalities and drawbacks. This helped the team decide on the novel functionalities to implement, which are: a tierd system to offer discount to frequent customers, and the ability to socialise with fellow customers by befriending them. After deciding the novel functionalityies, I then wrote up the corresponding user stories and acceptance criteria, and added them onto Jira.
+
+Week 3
+This week I worked with the team on finishing off the project proposal. I completed and double checked all the references. I also started working on the frontend, making a very basic log in page, register page, home page which displays all events, and an event page to show more details on each event. All of the frontend features works only off a fake database at the moment, as the back end has not been implemented. 
+
+Week 4
+This week I worked towards the progressive demo, working with Roger to ensure all users storeis for the first sprint has been implemented in the frontend. I made the create event page, and continue to edit and improve the pages implemented last week. I also worked a bit in the backend as that was falling behind, and I was able to implement creating an event, and making a booking in the backend. After this, I was able to start connecting some frontend pages to the backend with the API routes.
+
+Week 5
+This week after the progressive demon, I worked with Uzaif to re-write the API documentations as the old version has many errors. Having the new accurate API will make sure theres no miscommunication between the frontend and backend teams. I started doing some of the basics for the sprit 2 features, including the comments section under an event.
+
+Week 6
+This week I implemnented the frontend part of event edit, and also finished off the comments feature in the frontend. I also fixed some small issues from the last sprint, such as having to enter both available quantity and total quantity of tickets when making an event.
+
+Week 7
+This week I worked towards sprint 2 and the second progressive demo. While waiting for the completion of the backend, I refined my work from last week. I mainly worked on using API routs to connect existing frontend features with backend functions.
+
+Week 8
+This week I worked on improving the UI/UX on frontend. I implemented address suggestings and displaying address on google maps for the event page. I also start working on sprint 3, starting with host reply, and attendee display.
+
+Week 9
+This week I worked on displaying the follow button on the frontend, allowing users to follow eachother, displaying host reviews, saving and auto-filling credit card details for users, and also implemented appropriated discounts based on the tired loyalty system.

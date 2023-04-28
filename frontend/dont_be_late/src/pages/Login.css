@@ -1,0 +1,30 @@
+.loginBackground {
+    background: #003580;
+    width: 100vw;
+    height: 100vh;
+    /*margin: 0;*/
+    /*margin-top: -22px;*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#homeLogo {
+    position: absolute;
+    color: wheat;
+    left: 2vw;
+    top: 1.5vh;
+}
+
+.loginForm{
+    background: white;
+    width: 300px;
+    /*height: 500px;*/
+    border-radius: 5px;
+    padding: 20px;
+}
+
+
+.error {
+    color: red;
+}

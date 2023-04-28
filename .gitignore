@@ -1,0 +1,9 @@
+# operating system-related files
+# file properties cache/storage on macOS
+*.DS_Store
+./frontend/dont_be_late/node_modules
+
+./backend/*.pyc
+./backend/__pycache__
+.vscode
+__pycache__/

@@ -1,0 +1,47 @@
+.contentHolder{
+    width: 80%;
+    min-width: 350px;
+    margin: auto;
+    text-align:center;
+    margin-bottom: 100px;
+}
+
+.infoHolder{
+    width: 65%;
+    text-align: left;
+}
+
+.bookingAndEdit{
+    width: 35%;
+}
+
+.bannerPic{
+    height: 50vh;
+    max-width: 90vw;
+    margin: auto;
+}
+
+.belowImg{
+    display: flex;
+}
+
+.whenAndWhere{
+    flex: 1
+}
+
+.whenAndWhereHolder{
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.reviewHolder{
+    width: 80%;
+    margin: auto;
+    margin-bottom: 100px;
+}
+
+.mapContainer{
+    width: 90%;
+    max-width: 600px;
+    height: 300px
+}

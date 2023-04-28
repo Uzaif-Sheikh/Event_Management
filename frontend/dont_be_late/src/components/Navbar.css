@@ -1,0 +1,25 @@
+.logo{
+    height: 7vh;
+}
+
+.navBar{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 100%;
+    background: #003580;
+    display: flex;
+    justify-content: center;
+}
+
+.navContainer{
+    width: 100%;
+    padding-left: 30px;
+    padding-right: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navButton{
+    margin-left: 20px;
+}

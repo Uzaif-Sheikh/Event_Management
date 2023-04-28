@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'CenturyGothic';
+    src: url('../../public/gothicb.ttf') format('truetype');
+}
+
+h5{
+    font-family: 'CenturyGothic' ;
+    font-size: '50%';
+}

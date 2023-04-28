@@ -1,0 +1,24 @@
+version: "3.8"
+services:
+  api:
+    # container_name: backendapi
+    build: ./backend
+    ports:
+      - "5000:5000"
+    # environment:
+    #   FLASK_DEBUG: 1
+    volumes: 
+      - ./backend:/app
+  web:
+    build: ./frontend/dont_be_late
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./frontend/dont_be_late:/client
+    depends_on:
+      - api
+    environment:
+      CHOKIDAR_USEPOLLING: true
+
+# volumes: 
+#   capstone-project-3900-m12a-late:

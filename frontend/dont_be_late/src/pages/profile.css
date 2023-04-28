@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'CenturyGothic';
+    src: url('../../public/gothicb.ttf') format('truetype');
+
+    font-family: 'CenturyGothic-text';
+    src: url('../../public/Century Gothic.ttf') format('truetype');
+}
+
+#profilePage {
+    margin: 0 5% 0 5%;
+    display: grid;
+    grid-template-columns: 30% 70%;
+}
+
+#eventsSection {
+
+}
+
+#loyaltyStatus {
+    display: flex;
+    flex-direction: column;
+}
+
+#progressBarBox {
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    font-family: 'CenturyGothic';
+}
+#profilePic {
+    width: 200pt;
+    height: 200pt;
+    font-size: 90pt;
+    margin: 3%;
+}

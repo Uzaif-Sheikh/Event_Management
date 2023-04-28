@@ -1,0 +1,58 @@
+Week - 01:
+- what I did:
+  worked on my part of the report (interface flow design).
+- Will do:
+  try to complete interface flow design, so can start working with backend.
+
+Week - 02:
+- what I did:
+  I worked on the interface flow design add few more functionality on the design and did some research on backend framework and design.
+- Will do:
+  Added the interface flow design to the report and write the description for it.
+
+
+Week 03:
+- what I did:
+  Starting implenmenting the JWT for the authentication, edited interface flow design for the report, started make routes in the flask api and
+  working on login route.
+- Will do:
+  Complete the authentication part of the api, dockerize the backend, frontend and database.
+
+Week 04:
+- what I did:
+  Worked on dockerfile for the backend and the frontend, and writing up the docker-compose.yml to run the app and Complete my part of the backend api.
+- Will do:
+  look into the problem happening with frontend docker container.
+
+Week 05:
+- what I did:
+  Worked on the few of the backend bugs and implementing new features.
+- Will do:
+  Contiune working on the backend and look into the DB functions.
+
+Week 06:
+- What I did:
+  Was working on my Jira ticket with the user events, booking and review routes.
+- Will do:
+  Try to complete the routes and connect it with the database for the frontend testing.
+ 
+Week 07:
+- What I did:
+  Connnected the MySQL database to the backend routes to stores the data in DB.
+- Will do:
+  Keep on testing the routes.
+
+Week 08:
+- What I did:
+  Worked on the sprint 2 routes.
+- Will do:
+  Sprint 2 Demo.
+
+Week 09:
+- What I did:
+  Worked on implementing new routes for novel features and connecting the route with the database.
+  Testing the routes and writing up the function docs in the backend code.
+  Fixing the token bug.
+- Will do:
+  Keep on testing and see if any bugs are there.
+  Final Demo.
